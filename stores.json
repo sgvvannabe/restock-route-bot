@@ -1,0 +1,106 @@
+{
+  "Monday": [
+    {
+      "time": "7:00 AM",
+      "store": "Target",
+      "location": "9770 76th St, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=9770+76th+St+Pleasant+Prairie+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "Walmart Supercenter",
+      "location": "3500 Brumback Blvd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=3500+Brumback+Blvd+Kenosha+WI"
+    }
+  ],
+
+  "Tuesday": [
+    {
+      "time": "7:00 AM",
+      "store": "Best Buy",
+      "location": "10100 76th St, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=10100+76th+St+Pleasant+Prairie+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "GameStop",
+      "location": "6920 Green Bay Rd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=6920+Green+Bay+Rd+Kenosha+WI"
+    }
+  ],
+
+  "Wednesday": [
+    {
+      "time": "9:00 AM",
+      "store": "Meijer",
+      "location": "9200 76th St, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=9200+76th+St+Pleasant+Prairie+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "Walgreens",
+      "location": "7525 Green Bay Rd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=7525+Green+Bay+Rd+Kenosha+WI"
+    }
+  ],
+
+  "Thursday": [
+    {
+      "time": "7:00 AM",
+      "store": "Costco",
+      "location": "7707 94th Ave, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=7707+94th+Ave+Pleasant+Prairie+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "CVS",
+      "location": "7525 Green Bay Rd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=7525+Green+Bay+Rd+Kenosha+WI"
+    }
+  ],
+
+  "Friday": [
+    {
+      "time": "7:00 AM",
+      "store": "Barnes & Noble",
+      "location": "9900 76th St, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=9900+76th+St+Pleasant+Prairie+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "Five Below",
+      "location": "9901 77th St, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=9901+77th+St+Pleasant+Prairie+WI"
+    }
+  ],
+
+  "Saturday": [
+    {
+      "time": "7:00 AM",
+      "store": "Kohl's",
+      "location": "7200 Green Bay Rd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=7200+Green+Bay+Rd+Kenosha+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "Target",
+      "location": "9770 76th St, Pleasant Prairie, WI",
+      "map": "https://maps.google.com/?q=9770+76th+St+Pleasant+Prairie+WI"
+    }
+  ],
+
+  "Sunday": [
+    {
+      "time": "7:00 AM",
+      "store": "Walmart Supercenter",
+      "location": "3500 Brumback Blvd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=3500+Brumback+Blvd+Kenosha+WI"
+    },
+    {
+      "time": "7:00 AM",
+      "store": "Walgreens",
+      "location": "7525 Green Bay Rd, Kenosha, WI",
+      "map": "https://maps.google.com/?q=7525+Green+Bay+Rd+Kenosha+WI"
+    }
+  ]
+}
