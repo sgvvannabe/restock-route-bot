@@ -1,10 +1,12 @@
+import os
+os.environ["DISCORD_NO_AUDIO"] = "1"
+
 import discord
 from discord.ext import tasks
 from discord import app_commands
 import json
 from datetime import datetime
 import pytz
-import os
 
 TOKEN = os.getenv("TOKEN")
 CHANNEL_ID = int(os.getenv("CHANNEL_ID"))
